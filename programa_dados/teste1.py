@@ -32,5 +32,6 @@ while n_dados < 1 or n_dados > 4:
 dados_jogo = Dados(n_dados)
 dados_jogo.rolar_dados()
 dados_jogo.mostrar_resultados()
+dados_jogo.mostrar_resultados_art()
 
 # %%
